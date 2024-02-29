@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "swipe-up.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
